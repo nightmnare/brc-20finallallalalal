@@ -1,0 +1,54 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Bitmap",
+      "url": "/bitmap"
+    },
+    {
+      "name": "Scanner",
+      "url": "/scanner"
+    },
+    {
+      "name": "Inscribe",
+      "url": "/inscribe"
+    },
+    {
+      "name": "Check transfer",
+      "url": "/check"
+    },
+    {
+      "name": ".bitradio",
+      "url": "/bitradio"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Bitmap",
+      "url": "/DogeMaps"
+    },
+    {
+      "name": "Scanner",
+      "url": "/scanner"
+    },
+    {
+      "name": "Inscribe",
+      "url": "/inscribe"
+    },
+    {
+      "name": "Check transfer",
+      "url": "/check"
+    },
+    {
+      "name": ".bitradio",
+      "url": "/bitradio"
+    }
+  ]
+}
