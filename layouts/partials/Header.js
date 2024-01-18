@@ -130,13 +130,13 @@ const Header = () => {
               ))}
                             <li className="nav-item">
                 <Link
-                  href="https://magiceden.io/ordinals/marketplace/girl"
+                  href="https://ltc20.com"
                   target="_blank"
                   className={`nav-link block text-base font-semibold ${
                     router.asPath === menu.url && "active"
                   }`}
                 >
-                  Buy Dummy Girl💕
+                  LTC20💕
                 </Link>
               </li>
               <li className="nav-item">

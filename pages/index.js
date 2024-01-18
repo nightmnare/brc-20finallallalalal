@@ -556,12 +556,13 @@ const Home = () => {
             <div className="flex justify-between">
               <div className="flex flex-row  lg:flex-none">
                 <Link
-                  href="https://magiceden.io/ordinals/marketplace/girl"
+                  href="https://unisat.io/market/brc20?tick=SLUP"
+                  target="_blank"
                   className="relative m-auto mt-8 h-[160px] w-[160px] "
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/AD2.gif"
+                    src="/images/tokens/AD3.gif"
                     alt="AD"
                     unoptimized={true}
                     width={200}
@@ -586,12 +587,13 @@ const Home = () => {
 
               <div className="block">
                 <Link
-                  href="https://unisat.io/market/brc20?tick=SLUP"
+                  href="https://marketplace.ordinals.fun"
+                  target="_blank"
                   className="relative m-auto mt-8 flex h-[160px] w-[160px]"
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/AD3.gif"
+                    src="/images/tokens/LTC.gif"
                     unoptimized={true}
                     alt="logo"
                     width={200}
