@@ -150,6 +150,17 @@ const Header = () => {
                   .Litemap🔵
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link
+                  href="https://t.me/INFINITEBTC"
+                  target="_blank"
+                  className={`nav-link block text-base font-semibold ${
+                    router.asPath === menu.url && "active"
+                  }`}
+                >
+                  Advertise
+                </Link>
+              </li>
             </ul>
           </div>
           
