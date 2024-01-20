@@ -562,7 +562,7 @@ const Home = () => {
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/AD3.gif"
+                    src="/images/tokens/AD1.png"
                     alt="AD"
                     unoptimized={true}
                     width={200}
