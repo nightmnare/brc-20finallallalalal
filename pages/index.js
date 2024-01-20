@@ -556,13 +556,13 @@ const Home = () => {
             <div className="flex justify-between">
               <div className="flex flex-row  lg:flex-none">
                 <Link
-                  href="https://unisat.io/market/brc20?tick=SLUP"
+                  href="https://twitter.com/kriptokurduu/status/1725145072218276312"
                   target="_blank"
                   className="relative m-auto mt-8 h-[160px] w-[160px] "
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/AD1.png"
+                    src="/images/tokens/brc20.gif"
                     alt="AD"
                     unoptimized={true}
                     width={200}
