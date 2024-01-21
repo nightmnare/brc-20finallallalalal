@@ -556,13 +556,13 @@ const Home = () => {
             <div className="flex justify-between">
               <div className="flex flex-row  lg:flex-none">
                 <Link
-                  href="https://twitter.com/kriptokurduu/status/1725145072218276312"
+                  href="https://marketplace.ordinals.fun"
                   target="_blank"
                   className="relative m-auto mt-8 h-[160px] w-[160px] "
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/brc20.gif"
+                    src="/images/tokens/LTC.gif"
                     alt="AD"
                     unoptimized={true}
                     width={200}
@@ -587,13 +587,13 @@ const Home = () => {
 
               <div className="block">
                 <Link
-                  href="https://marketplace.ordinals.fun"
+                  href="https://twitter.com/kriptokurduu/status/1725145072218276312"
                   target="_blank"
                   className="relative m-auto mt-8 flex h-[160px] w-[160px]"
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/LTC.gif"
+                    src="/images/tokens/brc20.gif"
                     unoptimized={true}
                     alt="logo"
                     width={200}
