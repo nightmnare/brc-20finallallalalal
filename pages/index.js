@@ -587,13 +587,13 @@ const Home = () => {
 
               <div className="block">
                 <Link
-                  href="https://twitter.com/kriptokurduu/status/1725145072218276312"
+                  href="https://www.okx.com/web3/marketplace/inscription/ordinals/token/wgmi"
                   target="_blank"
                   className="relative m-auto mt-8 flex h-[160px] w-[160px]"
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/brc20.gif"
+                    src="/images/tokens/wgmi.gif"
                     unoptimized={true}
                     alt="logo"
                     width={200}
