@@ -587,13 +587,13 @@ const Home = () => {
 
               <div className="block">
                 <Link
-                  href="https://www.okx.com/web3/marketplace/inscription/ordinals/token/wgmi"
+                  href="https://t.me/INFINITEBTC"
                   target="_blank"
                   className="relative m-auto mt-8 flex h-[160px] w-[160px]"
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/wgmi.gif"
+                    src="/images/tokens/AD1.png"
                     unoptimized={true}
                     alt="logo"
                     width={200}
