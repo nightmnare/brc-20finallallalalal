@@ -556,13 +556,13 @@ const Home = () => {
             <div className="flex justify-between">
               <div className="flex flex-row  lg:flex-none">
                 <Link
-                  href="https://btbyte.com/"
+                  href="https://ordinals.fun/"
                   target="_blank"
                   className="relative m-auto mt-8 h-[160px] w-[160px] "
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/byte.gif"
+                    src="/images/tokens/LTC.gif"
                     alt="AD"
                     unoptimized={true}
                     width={200}
