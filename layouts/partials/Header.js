@@ -141,24 +141,13 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <Link
-                  href="https://ordinals.fun"
+                  href="https://unisat.io/market/brc20?tick=BXDX"
                   target="_blank"
                   className={`nav-link block text-base font-semibold ${
                     router.asPath === menu.url && "active"
                   }`}
                 >
-                  .Litemap🔵
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  href="https://t.me/INFINITEBTC"
-                  target="_blank"
-                  className={`nav-link block text-base font-semibold ${
-                    router.asPath === menu.url && "active"
-                  }`}
-                >
-                  Advertise
+                  Buy $BXDX🔥
                 </Link>
               </li>
             </ul>
