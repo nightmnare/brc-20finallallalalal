@@ -130,13 +130,13 @@ const Header = () => {
               ))}
                             <li className="nav-item">
                 <Link
-                  href="https://ltc20.com"
+                  href="https://drc20.xyz"
                   target="_blank"
                   className={`nav-link block text-base font-semibold ${
                     router.asPath === menu.url && "active"
                   }`}
                 >
-                  LTC20💕
+                  DRC20🐕
                 </Link>
               </li>
               <li className="nav-item">
