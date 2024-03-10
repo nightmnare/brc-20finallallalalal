@@ -587,13 +587,13 @@ const Home = () => {
 
               <div className="block">
                 <Link
-                  href="https://t.me/INFINITEBTC"
+                  href="https://twitter.com/MetaRunes21"
                   target="_blank"
                   className="relative m-auto mt-8 flex h-[160px] w-[160px]"
                 >
                   <ImageFallback
                     className="rounded-xl"
-                    src="/images/tokens/AD1.png"
+                    src="/images/tokens/META.gif"
                     unoptimized={true}
                     alt="logo"
                     width={200}
