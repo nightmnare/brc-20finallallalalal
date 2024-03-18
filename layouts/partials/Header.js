@@ -141,13 +141,13 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <Link
-                  href="https://unisat.io/market/brc20?tick=BXDX"
+                  href="https://docs.bxdx.io/pre-runes/bitx-og-pass"
                   target="_blank"
                   className={`nav-link block text-base font-semibold ${
                     router.asPath === menu.url && "active"
                   }`}
                 >
-                  Buy $BXDX🔥
+                  PRE-RUNES🔥
                 </Link>
               </li>
             </ul>
